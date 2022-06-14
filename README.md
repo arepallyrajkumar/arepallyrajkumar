@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arepallyrajkumar
 - 👀 I’m interested in Creating Web Applications
-- 🌱 I’m currently learning ReactJs
+- 🌱 I’m currently working on UI development with React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
